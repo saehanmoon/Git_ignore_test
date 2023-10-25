@@ -101,6 +101,6 @@ replay_pid*
 .classpath
 .gitignore
 /Git_ignore_test/src/main/webapp/WEB-INF/web.xml
- 
+/Git_ignore.test/src/main/webapp/WEB-INF/Command.properties 
    
    
